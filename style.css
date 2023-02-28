@@ -53,13 +53,13 @@ nav >button{
 #task{
     color: white;
     background-color: rgb(37, 130, 252);
-    border: none;
+    border: 1px solid rgb(37, 130, 252);
 }
 
 #section{
     color: lightgrey;
     background-color: white;
-    border-color: lightgrey;
+    border: 1px solid lightgrey;
 }
 
 /* fine nav */
