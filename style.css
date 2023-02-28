@@ -15,22 +15,21 @@ header{
     width: 100vw;
     height: 60px;
     background-color: white;
-    padding: 5px 20px;
     margin-bottom: 50px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
 }
 
 header >h1{
     display: inline-block;
-    vertical-align: top;
-    margin-top: 6px;
     font-size: 35px;
 }
 
 /* fine header */
 
 .contenitore{
-    width: 60%;
-    height: 900px;
+    width: 70%;
     margin: auto;
 }
 
