@@ -15,8 +15,52 @@ header{
     height: 60px;
     background-color: white;
     padding: 5px 20px;
+    margin-bottom: 50px;
 }
 
 header >h1{
     display: inline-block;
 }
+
+/* fine header */
+
+.contenitore{
+    width: 60%;
+    height: 900px;
+    margin: auto;
+    background-color: white;
+}
+
+/* inizio nav */
+
+nav{
+    height: 60px;
+    width: 100%;
+    padding: 16px 10%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: white;
+}
+
+nav >button{
+    padding: 7px;
+    border-radius: 7px;
+}
+
+#task{
+    color: white;
+    background-color: rgb(37, 130, 252);
+    border: none;
+}
+
+#section{
+    color: lightgrey;
+    background-color: white;
+    border-color: lightgrey;
+}
+
+hr{
+    border-color: lightgrey;
+}
+
+/* fine nav */
