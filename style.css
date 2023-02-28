@@ -29,7 +29,6 @@ header >h1{
     width: 60%;
     height: 900px;
     margin: auto;
-    background-color: white;
 }
 
 /* inizio nav */
@@ -67,6 +66,7 @@ nav >button{
 main{
     padding-left: 10%;
     padding-top: 25px;
+    padding-bottom:25px;
     background-color: white;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
@@ -113,7 +113,7 @@ main{
 }
 
 .porpora{
-    background-color: rgb(138, 35, 107);
+    background-color: rgb(170, 72, 141);
 }
 
 .verde{
@@ -131,3 +131,5 @@ main{
 .senape{
     background-color: rgb(186, 189, 10);
 }
+
+/* fine main */
