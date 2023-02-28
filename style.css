@@ -83,8 +83,17 @@ main{
     padding: 3px;
 }
 
-.edit{
-    background-color: rgb(37, 130, 252);
+.cross{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 12px;
+    font-size: x-small;
+    padding: 3px;
+}
+
+.colore{
     color: white;
     padding: 6px;
     border-radius: 10px;
@@ -97,4 +106,20 @@ main{
 
 .blocco > span{
     line-height: 45px;
+}
+
+.blu{
+    background-color: rgb(37, 130, 252);
+}
+
+.porpora{
+    background-color: rgb(138, 35, 107);
+}
+
+.verde{
+    background-color: rgb(68, 150, 68);
+}
+
+.arancio{
+    background-color: orange;
 }
