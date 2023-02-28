@@ -6,6 +6,7 @@
 
 body{
     background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* inizio header */
@@ -37,9 +38,10 @@ nav{
     height: 60px;
     width: 100%;
     padding: 16px 10%;
-    border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
     background-color: white;
+    border-bottom: 2px solid lightgray
 }
 
 nav >button{
@@ -59,8 +61,29 @@ nav >button{
     border-color: lightgrey;
 }
 
-hr{
-    border-color: lightgrey;
+/* fine nav */
+/* inizio main */
+
+main{
+    padding-left: 10%;
+    padding-top: 25px;
+    background-color: white;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 
-/* fine nav */
+.check{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 12px;
+}
+
+.edit{
+    background-color: rgb(37, 130, 252);
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+    font-size: x-small;
+}
