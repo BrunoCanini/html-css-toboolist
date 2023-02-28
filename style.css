@@ -23,7 +23,7 @@ header{
 
 header >h1{
     display: inline-block;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 /* fine header */
@@ -52,8 +52,8 @@ nav >button{
 
 #task{
     color: white;
-    background-color: rgb(37, 130, 252);
-    border: 1px solid rgb(37, 130, 252);
+    background-color: rgb(71, 173, 241);
+    border: 1px solid rgb(71, 173, 241);
 }
 
 #section{
@@ -111,15 +111,15 @@ main{
 }
 
 .blu{
-    background-color: rgb(37, 130, 252);
+    background-color: rgb(71, 173, 241);
 }
 
 .porpora{
-    background-color: rgb(170, 72, 141);
+    background-color: rgb(156, 114, 228);
 }
 
 .verde{
-    background-color: rgb(68, 150, 68);
+    background-color: rgb(100, 192, 169);
 }
 
 .arancio{
