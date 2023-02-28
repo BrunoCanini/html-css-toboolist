@@ -72,12 +72,15 @@ main{
     border-top-left-radius: 5px;
 }
 
+
 .check{
     color: green;
     border: 1px solid green;
     border-radius: 50%;
     margin-left: 5px;
     margin-right: 12px;
+    font-size: x-small;
+    padding: 3px;
 }
 
 .edit{
@@ -86,4 +89,12 @@ main{
     padding: 6px;
     border-radius: 10px;
     font-size: x-small;
+}
+
+.blocco{
+    margin-bottom: 35px;
+}
+
+.blocco > span{
+    line-height: 45px;
 }
